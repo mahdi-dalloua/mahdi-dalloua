@@ -1,6 +1,6 @@
 # Mahdi Dalloua
 Computer Science student · Self-taught mathematician & physicist · Artist · Curious
-## Interests
+### Interests
 programming · algorithms · mathematics · systems programming · AI · cybersecurity
 ## Languages
 HTML, CSS, JavaScript, PHP, C, Python
