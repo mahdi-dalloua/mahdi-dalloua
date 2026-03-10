@@ -1,16 +1,77 @@
-## Hi there 👋
+# Mahdi Dalloua
 
-<!--
-**mahdi-dalloua/mahdi-dalloua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student · Self-taught mathematician & physicist · Artist · Curious
 
-Here are some ideas to get you started:
+## Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+programming · algorithms · mathematics · systems programming · AI · cybersecurity
+
+## Languages
+
+HTML, CSS, JavaScript, PHP, C, Python
+
+## Tools
+
+Arch Linux · VS Code · Git
+
+## Learning (beginner)
+
+Data structures · Algorithms · Operating systems
+
+## Goals
+
+Explore AI, cybersecurity, and data science; learn by building small projects.
+
+## Projects (placeholders — add links)
+
+* Data-Structures-in-C — implementing classic structures (WIP)
+* linux-utils — small shell tools (WIP)
+* algorithms — problem implementations (WIP)
+
+## Links
+
+LinkedIn — linkedin.com/in/mahdi-dalloua
+Website — mahdi-dalloua.github.io
+
+## About
+
+Arch Linux user · Mathematics & physics · Artist · Creativity · Bookworm · Movie fan
+# Mahdi Dalloua
+
+Computer Science student · Self-taught mathematician & physicist · Artist · Curious
+
+## Interests
+
+programming · algorithms · mathematics · systems programming · AI · cybersecurity
+
+## Languages
+
+HTML, CSS, JavaScript, PHP, C, Python
+
+## Tools
+
+Arch Linux · VS Code · Git
+
+## Learning (beginner)
+
+Data structures · Algorithms · Operating systems
+
+## Goals
+
+Explore AI, cybersecurity, and data science; learn by building small projects.
+
+## Projects (placeholders — add links)
+
+* Data-Structures-in-C — implementing classic structures (WIP)
+* linux-utils — small shell tools (WIP)
+* algorithms — problem implementations (WIP)
+
+## Links
+
+LinkedIn — linkedin.com/in/mahdi-dalloua
+Website — mahdi-dalloua.github.io
+
+## About
+
+Arch Linux user · Mathematics & physics · Artist · Creativity · Bookworm · Movie fan
+
